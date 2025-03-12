@@ -1,5 +1,6 @@
 import React from "react";
-import PriceOption from "../../PriceOption/PriceOption";
+import PriceOption from "../PriceOption/PriceOption";
+
 
 const PriceOptions = () => {
   const priceOptions = [

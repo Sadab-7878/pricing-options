@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
 import React from "react";
-import Feature from "../Components/Feature/Feature";
+import Feature from "../Feature/Feature";
 
 const PriceOption = ({ option }) => {
   const { name, price, features } = option;
